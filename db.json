@@ -1,0 +1,18 @@
+{
+    "pet_feed": {
+      "user_input": [
+        "feed the pet",
+        "give the pet some food",
+        "offer food to the pet"
+      ],
+      "response": "Yum, that was delicious!"
+    },
+    "pet_play": {
+      "user_input": [
+        "play with the pet",
+        "spend time with the pet",
+        "have fun with the pet"
+      ],
+      "response": "Whee! That was fun!"
+    }
+  }
